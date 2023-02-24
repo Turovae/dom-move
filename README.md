@@ -1,4 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/garcrnis6gj4akm0?svg=true)](https://ci.appveyor.com/project/Turovae/dom-move)
+[![Whack A Mole](https://github.com/Turovae/dom-move/actions/workflows/web.yml/badge.svg)](https://github.com/Turovae/dom-move/actions/workflows/web.yml)
+
 ---
 
 # Домашнее задание к занятию "2. DOM"
