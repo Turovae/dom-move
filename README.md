@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/garcrnis6gj4akm0?svg=true)](https://ci.appveyor.com/project/Turovae/dom-move)
+---
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
